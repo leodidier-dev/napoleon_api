@@ -5,7 +5,6 @@ module.exports = ({ env }) =>  ({
         enabled: true,
         config:{
            editor:{
-            removePlugins: ['FontColor'],
             toolbar: {
                items: [
                  'paragraph',
