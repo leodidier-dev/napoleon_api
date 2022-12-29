@@ -11,6 +11,8 @@ module.exports = ({ env }) =>  ({
                  'heading1',
                  'heading2',
                  'heading3',
+                 'fontColor',
+                 'fontBackgroundColor',
                  '|',
                  'bold',
                  'italic',
