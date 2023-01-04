@@ -33,10 +33,6 @@
         "images"
       ]
     },
-    "abstract": {
-      "type": "text",
-      "required": true
-    },
     "type": {
       "type": "relation",
       "relation": "oneToOne",
